@@ -11,7 +11,7 @@ A React application built with TypeScript and Vite, utilizing `@react-three/fibe
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/threejs-test-task.git
+   git clone https://github.com/your-username/three.js-test-task.git
    ```
 
 2. **Navigate to the Project Directory**
