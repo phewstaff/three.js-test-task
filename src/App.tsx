@@ -13,7 +13,7 @@ function App() {
     return (
         <Canvas shadows camera={{ position: [5, 5, 5], fov: 60 }}>
             <Suspense fallback={<Loader />}>
-                <ambientLight intensity={0.3} />
+                <ambientLight intensity={0.5} />
                 <directionalLight
                     position={[5, 10, 7.5]}
                     intensity={1}
@@ -28,8 +28,8 @@ function App() {
                 />
                 <Environment />
                 <Box />
-                <Sphere />
                 <Door />
+                <Sphere />
                 <Floor />
                 <OrbitControls enablePan={true} enableZoom={true} enableRotate={true} />
             </Suspense>
