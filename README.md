@@ -1,6 +1,9 @@
-# Three.js Test Task
+# Three.js Test Task 
 
 A React application built with TypeScript and Vite, utilizing `@react-three/fiber` and `@react-three/drei` for 3D rendering.
+
+## Demo
+👉 [View Live Demo](https://three-js-test-task-4o87-dbiedw5f4-phewstaffs-projects.vercel.app/)
 
 
 ## Getting Started
